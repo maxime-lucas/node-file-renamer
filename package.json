@@ -1,0 +1,22 @@
+{
+  "name": "file-renamer",
+  "version": "1.0.0",
+  "description": "A NodeJS script to rename the files in a folder according to their creation date. Very useful for picture sorting !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxime-lucas/node-file-renamer.git"
+  },
+  "author": "Maxime LUCAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxime-lucas/node-file-renamer/issues"
+  },
+  "homepage": "https://github.com/maxime-lucas/node-file-renamer#readme",
+  "dependencies": {
+    "exif-parser": "^0.1.12"
+  }
+}
